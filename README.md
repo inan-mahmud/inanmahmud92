@@ -8,7 +8,7 @@
 
 Innovative tech mind with 3+ years of experience working as a Mobile Application Developer. Capable of working with a variety of technology and mobile applications. Passionate about building world-class mobile applications. Valuable team member who has experience diagnosing problems and developing solutions. Talented leader with unique ideas and a history of successful contributions in the field. 
 
-- 🔭 I’m currently working on Kotlin,
+- 🔭 I’m currently working on Kotlin for Android and Flutte for cross-platform,
 - 🌱 I’m currently learning Swift
 - 💬 Ask me about #Flutter #Android #Kotlin #Java
 - 😄 Pronouns: Ināna māhamuda
